@@ -36,6 +36,9 @@ the use this application from a clone, you must install npm, express, inquirer
 Use the localhost and generate notes that save when the application is open
 
 ![note-taker start page](./note-taker/assets/Untitled_%20May%2010%2C%202022%205_57%20PM.gif)
+
+
+Deployed Link: https://note-taker-789456.herokuapp.com/
         
 ## Credits
 Hayden Kiltoff
